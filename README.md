@@ -59,7 +59,7 @@ An agent based on symbolic regression tasks that searches for mathematical expre
 ## Data
 
 The experimental data is available on Hugging Face:
-[Dataset link to be added]
+[https://huggingface.co/datasets/Nondegeneracy/detailed-balance-llm](https://huggingface.co/datasets/Nondegeneracy/detailed-balance-llm)
 
 ## Requirements
 
