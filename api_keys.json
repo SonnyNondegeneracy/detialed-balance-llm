@@ -1,0 +1,9 @@
+{
+  "MODELNAME": [
+    {
+      "api_key": "sk-xxxxxxxx",
+      "base_url": "your base url",
+      "model": "model name here"
+    }
+  ]
+}
