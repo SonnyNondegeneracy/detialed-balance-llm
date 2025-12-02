@@ -29,11 +29,11 @@ An agent based on symbolic regression tasks that searches for mathematical expre
 
 ```
 .
-├── main.py                      # Main execution script for running experiments
+├── main.py                      # Main execution script for generating figures
 ├── V_hand.py                    # Hand-crafted potential function implementation
-├── ideasearch_potential.py      # Potential function discovered by IdeaSearch
-├── build_potential.py           # Utilities for constructing potential functions
-├── random_optimize_manual.py    # Gradient descent optimization for potential parameters
+├── ideasearch_potential.py      # Potential function discovered by IdeaSearch used in V_hand.py
+├── build_potential.py           # Utilities for constructing potential functions used to plot
+├── random_optimize_manual.py    # Gradient descent optimization for potential parameters in ideasearch_potential.py
 ├── plot.py                      # Visualization and plotting utilities
 ├── api_keys.json               # API keys configuration for LLM models
 │
