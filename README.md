@@ -104,7 +104,15 @@ python main.py
 If you use this code in your research, please cite:
 
 ```bibtex
-[Citation to be added upon publication]
+@misc{song2025detailedbalancelargelanguage,
+      title={Detailed balance in large language model-driven agents}, 
+      author={Zhuo-Yang Song and Qing-Hong Cao and Ming-xing Luo and Hua Xing Zhu},
+      year={2025},
+      eprint={2512.10047},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2512.10047}, 
+}
 ```
 
 ## License
